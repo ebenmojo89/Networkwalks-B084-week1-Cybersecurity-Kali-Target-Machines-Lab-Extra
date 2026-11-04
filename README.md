@@ -239,7 +239,6 @@ DNS: 8.8.8.8
 A consistent IP address makes it easier to document the lab and reference the Windows 11 in future exercises.
 
 ![](5-screenshot-Windows-11 Lab IP Addr Setup.png)
-<img width="1920" height="982" alt="3-screenshot-kali-network-settings" src="https://github.com/user-attachments/assets/5653e163-d052-4e15-86ef-9ed961de9678" />
 
 
 
@@ -264,7 +263,6 @@ The VM was allocated:
 RAM: 4096 MB
 ```
 ![]()
-<img width="1920" height="983" alt="2-screenshot-kali-linux" src="https://github.com/user-attachments/assets/2d0c0373-07b6-4bd7-8bc7-793a4ed21c0c" />
 
 A shared folder was also configured for transferring required files between the host operating system and the Windows 10 VM.
 
@@ -287,8 +285,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Windows 10 in future exercises.
 
-![]()
-<img width="1920" height="982" alt="3-screenshot-kali-network-settings" src="https://github.com/user-attachments/assets/5653e163-d052-4e15-86ef-9ed961de9678" />
+![](7-screenshot-Windows-10 Lab IP Addr Setup.png)
 
 
 
@@ -313,7 +310,6 @@ The VM was allocated:
 RAM: 4096 MB
 ```
 ![]()
-<img width="1920" height="983" alt="2-screenshot-kali-linux" src="https://github.com/user-attachments/assets/2d0c0373-07b6-4bd7-8bc7-793a4ed21c0c" />
 
 A shared folder was also configured for transferring required files between the host operating system and the Android 9 VM.
 
@@ -337,7 +333,6 @@ DNS: 8.8.8.8
 A consistent IP address makes it easier to document the lab and reference the Android 9 in future exercises.
 
 ![]()
-<img width="1920" height="982" alt="3-screenshot-kali-network-settings" src="https://github.com/user-attachments/assets/5653e163-d052-4e15-86ef-9ed961de9678" />
 
 
 
