@@ -1,4 +1,4 @@
-<img width="1024" height="768" alt="6-screenshot-Windows10-Lab" src="https://github.com/user-attachments/assets/85bac389-b8dd-4c6f-8736-9cacb1555bff" /># Networkwalks-B084-week1-Cybersecurity-Target-Machines-Lab-Extra
+##Networkwalks-B084-week1-Cybersecurity-Target-Machines-Lab-Extra
 
 <div align="center">
 
