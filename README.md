@@ -215,7 +215,7 @@ The VM was allocated:
 RAM: 4096 MB
 ```
 
-![](4-screenshot-Windows-11 Lab.png)
+![](4-screenshot-Windows-11-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Windows 11 VM.
 
@@ -238,7 +238,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Windows 11 in future exercises.
 
-![](5-screenshot-Windows-11 Lab IP Addr Setup.png)
+![](5-screenshot-Windows-11-Lab-IP-Addr-Setup.png)
 
 
 
@@ -262,7 +262,7 @@ The VM was allocated:
 ```text
 RAM: 4096 MB
 ```
-![](6-screenshot-Windows10-Lab.png)
+![](6-screenshot-Windows-10-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Windows 10 VM.
 
@@ -285,7 +285,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Windows 10 in future exercises.
 
-![](7-screenshot-Windows-10 Lab IP Addr Setup.png)
+![](7-screenshot-Windows-10-Lab-IP-Addr-Setup.png)
 
 
 
@@ -309,7 +309,7 @@ The VM was allocated:
 ```text
 RAM: 4096 MB
 ```
-![]()
+![](8-screenshot-Andriod-9-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Android 9 VM.
 
@@ -332,7 +332,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Android 9 in future exercises.
 
-![]()
+![](9-screenshot-Andriod-9-Lab-IP-Addr-Setup.png)
 
 
 
