@@ -262,7 +262,7 @@ The VM was allocated:
 ```text
 RAM: 4096 MB
 ```
-![](6-screenshot-Windows10-Lab)
+![](6-screenshot-Windows10-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Windows 10 VM.
 
