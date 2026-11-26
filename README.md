@@ -139,7 +139,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](1-screenshot-network-setting.png)
+![](Screenshots/1-screenshot-network-setting.png)
 
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
@@ -167,7 +167,7 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](2-screenshot-kali-linux.png)
+![](Screenshots/2-screenshot-kali-linux.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
@@ -190,7 +190,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](3-screenshot-kali-network-settings.png)
+![](Screenshots/3-screenshot-kali-network-settings.png)
 
 
 
@@ -215,7 +215,7 @@ The VM was allocated:
 RAM: 4096 MB
 ```
 
-![](4-screenshot-Windows-11-Lab.png)
+![](Screenshots/4-screenshot-Windows-11-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Windows 11 VM.
 
@@ -238,7 +238,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Windows 11 in future exercises.
 
-![](5-screenshot-Windows-11-Lab-IP-Addr-Setup.png)
+![](Screenshots/5-screenshot-Windows-11-Lab-IP-Addr-Setup.png)
 
 
 
@@ -262,7 +262,7 @@ The VM was allocated:
 ```text
 RAM: 4096 MB
 ```
-![](6-screenshot-Windows-10-Lab.png)
+![](Screenshots/6-screenshot-Windows-10-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Windows 10 VM.
 
@@ -285,7 +285,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Windows 10 in future exercises.
 
-![](7-screenshot-Windows-10-Lab-IP-Addr-Setup.png)
+![](Screenshots/7-screenshot-Windows-10-Lab-IP-Addr-Setup.png)
 
 
 
@@ -309,7 +309,7 @@ The VM was allocated:
 ```text
 RAM: 4096 MB
 ```
-![](8-screenshot-Andriod-9-Lab.png)
+![](Screenshots/8-screenshot-Andriod-9-Lab.png)
 
 A shared folder was also configured for transferring required files between the host operating system and the Android 9 VM.
 
@@ -332,7 +332,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Android 9 in future exercises.
 
-![](9-screenshot-Andriod-9-Lab-IP-Addr-Setup.png)
+![](Screenshots/9-screenshot-Andriod-9-Lab-IP-Addr-Setup.png)
 
 
 
